@@ -1,0 +1,206 @@
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\obj\Debug\MakeAHand.csproj.AssemblyReference.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\obj\Debug\MakeAHand.Properties.Resources.resources
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\obj\Debug\MakeAHand.csproj.GenerateResource.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\obj\Debug\MakeAHand.csproj.CoreCompileInputs.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\AceClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\AceDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\AceHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\AceSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\cardback.gif
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\EightClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\EightDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\EightHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\EightSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\FiveClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\FiveDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\FiveHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\FiveSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\FourClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\FourDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\FourHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\FourSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\JackClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\JackDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\JackHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\JackSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\KingClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\KingDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\KingHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\KingSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\NineClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\NineDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\NineHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\NineSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\PokerChips.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\QueenClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\QueenDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\QueenHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\QueenSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\royal-flush.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\SevenClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\SevenDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\SevenHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\SevenSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\SixClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\SixDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\SixHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\SixSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\TenClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\TenDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\TenHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\TenSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\ThreeClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\ThreeDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\ThreeHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\ThreeSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\TwoClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\TwoDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\TwoHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Images\TwoSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\MakeAHand.exe.config
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\MakeAHand.exe
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\MakeAHand.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Cards.dll
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\bin\Debug\Cards.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\obj\Debug\MakeAHand.frmHand.resources
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\obj\Debug\MakeAHand.csproj.CopyComplete
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\obj\Debug\MakeAHand.exe
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\MakeAHand\obj\Debug\MakeAHand.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\AceClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\AceDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\AceHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\AceSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\cardback.gif
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\EightClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\EightDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\EightHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\EightSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FiveClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FiveDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FiveHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FiveSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FourClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FourDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FourHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FourSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\JackClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\JackDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\JackHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\JackSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\KingClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\KingDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\KingHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\KingSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\NineClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\NineDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\NineHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\NineSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\PokerChips.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\QueenClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\QueenDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\QueenHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\QueenSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\royal-flush.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SevenClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SevenDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SevenHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SevenSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SixClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SixDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SixHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SixSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TenClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TenDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TenHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TenSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\ThreeClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\ThreeDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\ThreeHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\ThreeSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TwoClubs.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TwoDiamonds.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TwoHearts.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TwoSpades.jpg
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\MakeAHand.exe.config
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\MakeAHand.exe
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\MakeAHand.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Cards.dll
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\bin\Debug\Cards.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.csproj.AssemblyReference.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.frmHand.resources
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.Properties.Resources.resources
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.csproj.GenerateResource.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.csproj.CoreCompileInputs.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.csproj.CopyComplete
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.exe
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.pdb
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\AceClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\AceDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\AceHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\AceSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\cardback.gif
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\EightClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\EightDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\EightHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\EightSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FiveClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FiveDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FiveHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FiveSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FourClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FourDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FourHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\FourSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\JackClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\JackDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\JackHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\JackSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\KingClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\KingDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\KingHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\KingSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\NineClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\NineDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\NineHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\NineSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\PokerChips.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\QueenClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\QueenDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\QueenHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\QueenSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\royal-flush.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SevenClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SevenDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SevenHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SevenSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SixClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SixDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SixHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\SixSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TenClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TenDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TenHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TenSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\ThreeClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\ThreeDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\ThreeHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\ThreeSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TwoClubs.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TwoDiamonds.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TwoHearts.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Images\TwoSpades.jpg
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\MakeAHand.exe.config
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\MakeAHand.exe
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\MakeAHand.pdb
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Cards.dll
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\bin\Debug\Cards.pdb
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.csproj.AssemblyReference.cache
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.frmHand.resources
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.Properties.Resources.resources
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.csproj.GenerateResource.cache
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.csproj.CoreCompileInputs.cache
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.csproj.CopyComplete
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.exe
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.pdb
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.frmDeck.resources
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\MakeAHand\obj\Debug\MakeAHand.frmDinamicCards.resources

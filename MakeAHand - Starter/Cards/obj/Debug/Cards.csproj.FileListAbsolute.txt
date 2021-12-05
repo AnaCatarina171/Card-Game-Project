@@ -1,0 +1,29 @@
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeaCard\Cards\bin\Debug\Cards.dll
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeaCard\Cards\bin\Debug\Cards.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeaCard\Cards\obj\Debug\Cards.csproj.AssemblyReference.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeaCard\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeaCard\Cards\obj\Debug\Cards.dll
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeaCard\Cards\obj\Debug\Cards.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeADeck\Cards\bin\Debug\Cards.dll
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeADeck\Cards\bin\Debug\Cards.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeADeck\Cards\obj\Debug\Cards.csproj.AssemblyReference.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeADeck\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeADeck\Cards\obj\Debug\Cards.dll
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeADeck\Cards\obj\Debug\Cards.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\Cards\bin\Debug\Cards.dll
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\Cards\bin\Debug\Cards.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\Cards\obj\Debug\Cards.csproj.AssemblyReference.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\Cards\obj\Debug\Cards.dll
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand\Cards\obj\Debug\Cards.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\Cards\bin\Debug\Cards.dll
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\Cards\bin\Debug\Cards.pdb
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\Cards\obj\Debug\Cards.csproj.AssemblyReference.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\Cards\obj\Debug\Cards.dll
+U:\NBCC\OneDrive - NBCC\Classes\OOP\OOP\9.Game Project\2021\MakeAHand - Starter\Cards\obj\Debug\Cards.pdb
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\Cards\bin\Debug\Cards.dll
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\Cards\bin\Debug\Cards.pdb
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\Cards\obj\Debug\Cards.dll
+C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\Cards\obj\Debug\Cards.pdb

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Cards
 {
+    // Oi eu sou o melhor irmao do mundo
     public class Deck
     {
         private List<Card> _deck = new List<Card>();

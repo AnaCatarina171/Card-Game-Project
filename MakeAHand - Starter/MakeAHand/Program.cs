@@ -16,7 +16,7 @@ namespace MakeAHand
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmDinamicCards());
+            Application.Run(new frmTruco());
         }
     }
 }

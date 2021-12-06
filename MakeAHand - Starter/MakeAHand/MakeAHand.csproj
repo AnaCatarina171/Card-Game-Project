@@ -47,6 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CardImageUtil.cs" />
+    <Compile Include="frmTruco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTruco.Designer.cs">
+      <DependentUpon>frmTruco.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmDinamicCards.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +82,9 @@
     <EmbeddedResource Include="frmHand.resx">
       <DependentUpon>frmHand.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmTruco.resx">
+      <DependentUpon>frmTruco.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -102,6 +111,10 @@
     <ProjectReference Include="..\Cards\Cards.csproj">
       <Project>{E353C90B-A29E-4BDA-A09C-0DD4D81A0042}</Project>
       <Name>Cards</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Truco\Truco.csproj">
+      <Project>{B24796D0-59C4-42C9-9224-36A4C30B6150}</Project>
+      <Name>Truco</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,9 @@
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Truco\bin\Debug\Truco.dll
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Truco\bin\Debug\Truco.pdb
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Truco\bin\Debug\Cards.dll
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Truco\bin\Debug\Cards.pdb
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Truco\obj\Debug\Truco.csproj.AssemblyReference.cache
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Truco\obj\Debug\Truco.csproj.CoreCompileInputs.cache
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Truco\obj\Debug\Truco.csproj.CopyComplete
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Truco\obj\Debug\Truco.dll
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Truco\obj\Debug\Truco.pdb

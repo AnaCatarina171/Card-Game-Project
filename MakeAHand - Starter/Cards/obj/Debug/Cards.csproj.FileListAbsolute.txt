@@ -27,3 +27,9 @@ C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - St
 C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
 C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\Cards\obj\Debug\Cards.dll
 C:\NBCC\Fall 2021\Object Oriented Programming\MakeAHand - Starter\MakeAHand - Starter\Cards\obj\Debug\Cards.pdb
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Cards\bin\Debug\Cards.dll
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Cards\bin\Debug\Cards.pdb
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Cards\obj\Debug\Cards.csproj.AssemblyReference.cache
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Cards\obj\Debug\Cards.dll
+C:\NBCC\Fall 2021\Object Oriented Programming\GroupProject\TrucoProject\MakeAHand - Starter\Cards\obj\Debug\Cards.pdb

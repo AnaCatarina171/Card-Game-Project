@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeAHand", "MakeAHand\Make
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "Cards\Cards.csproj", "{E353C90B-A29E-4BDA-A09C-0DD4D81A0042}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truco", "Truco\Truco.csproj", "{B24796D0-59C4-42C9-9224-36A4C30B6150}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E353C90B-A29E-4BDA-A09C-0DD4D81A0042}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E353C90B-A29E-4BDA-A09C-0DD4D81A0042}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E353C90B-A29E-4BDA-A09C-0DD4D81A0042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24796D0-59C4-42C9-9224-36A4C30B6150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24796D0-59C4-42C9-9224-36A4C30B6150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24796D0-59C4-42C9-9224-36A4C30B6150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24796D0-59C4-42C9-9224-36A4C30B6150}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
